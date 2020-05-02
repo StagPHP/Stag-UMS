@@ -1,1 +1,1 @@
-# Stag-UMS
+# StagPHP User Management System (UMS)
